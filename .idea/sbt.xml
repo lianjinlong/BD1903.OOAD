@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="D:\ScalaFamily_2017\Scauilt_1_2_1\bin\sbt-launch.jar" />
+    <option name="customVMPath" />
+    <option name="vmParameters" value="-XX:MaxPermSize=512M -Dsbt.log.format=true -Dsbt.ivy.home=H:/Vepository -Dsbt.global.base=D:/ScalaFamily_2017/Scauilt_1_2_1/boot -Dsbt.boot.directory=D:/ScalaFamily_2017/Scauilt_1_2_1/boot -Dsbt.repository.config=D:/ScalaFamily_2017/Scauilt_1_2_1/conf/repo.properties" />
+  </component>
+</project>

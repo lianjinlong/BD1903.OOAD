@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaProjectSettings">
+    <option name="autoRunDelay" value="1119" />
+    <option name="customScalatestSyntaxHighlighting" value="true" />
+    <option name="includeBlockExpressions" value="true" />
+    <option name="includeLiterals" value="true" />
+    <option name="outputLimit" value="40" />
+    <option name="projectViewHighlighting" value="true" />
+    <option name="showArgumentsToByNameParams" value="true" />
+    <option name="useEclipseCompatibility" value="true" />
+  </component>
+</project>
